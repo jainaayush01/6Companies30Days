@@ -2,6 +2,7 @@
 class Solution
 {
 public:
+    // Similar to Kadane's Algorithm
     int minSubArrayLen(int target, vector<int> &nums)
     {
         int minLen = INT_MAX, n = nums.size();

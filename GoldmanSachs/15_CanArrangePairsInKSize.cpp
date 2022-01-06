@@ -7,6 +7,8 @@ using namespace std;
 class Solution
 {
 public:
+    // Solution:
+    // Hashing the values and couting if pairs is possible
     bool canPair(vector<int> nums, int k)
     {
         vector<int> rem(k, 0);
