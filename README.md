@@ -2,6 +2,10 @@
 
 [About the Challenge](https://docs.google.com/document/d/1gArkit3S_KXNfl01XSE0HLqpLR2gbh2mJ8ftsxKVd24/edit)
 
+### [GFG Profile @mjainaayush](https://auth.geeksforgeeks.org/user/imjainaayush/practice/)
+
+### [Leetcode Profile @imjainaayush](https://leetcode.com/imjainaayush)
+
 ### Goldman Sachs (Day 1-5)
 
 | Sr No. | Problem                                                                                                                                             | Solution                                                   | Intuition |
@@ -41,3 +45,11 @@
 | 13     | [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                        | [Solution](/Amazon/13_RottenOranges.cpp)         | ✅        |
 | 14     | [Burning Tree](https://practice.geeksforgeeks.org/problems/burning-tree/1/#)                                                            | [Solution](./Amazon/14_BurningTree.cpp)          | ✅        |
 | 15     | [Delete N Nodes after M Nodes](https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/)            | [Solution](./Amazon/15_DeleteNNodes.cpp)         | ✅        |
+
+### Amazon (Day 11-15)
+
+| Sr No. | Problem                                                                                            | Solution                                        | Intuition |
+| ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------- |
+| 1      | [Minimum Subset Problem](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/) | [Solution](./Mircrosoft/01_MinSumPartition.cpp) | ✅        |
+| 2      | [Prerequisite Tasks](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)            | [Solution](./Microsoft/02_PrereqTasks.cpp)      | ✅        |
+| 3      | [Rotate 90 Degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/#)        | [Solution](Microsoft/03_Rotate90.cpp)           | ✅        |
