@@ -48,8 +48,11 @@
 
 ### Amazon (Day 11-15)
 
-| Sr No. | Problem                                                                                            | Solution                                        | Intuition |
-| ------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------- | --------- |
-| 1      | [Minimum Subset Problem](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/) | [Solution](./Mircrosoft/01_MinSumPartition.cpp) | ✅        |
-| 2      | [Prerequisite Tasks](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)            | [Solution](./Microsoft/02_PrereqTasks.cpp)      | ✅        |
-| 3      | [Rotate 90 Degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/#)        | [Solution](Microsoft/03_Rotate90.cpp)           | ✅        |
+| Sr No. | Problem                                                                                                                        | Solution                                        | Intuition |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------- | --------- |
+| 1      | [Minimum Subset Problem](https://practice.geeksforgeeks.org/problems/minimum-sum-partition3317/1/)                             | [Solution](./Mircrosoft/01_MinSumPartition.cpp) | ✅        |
+| 2      | [Prerequisite Tasks](https://practice.geeksforgeeks.org/problems/prerequisite-tasks/1/)                                        | [Solution](./Microsoft/02_PrereqTasks.cpp)      | ✅        |
+| 3      | [Rotate 90 Degree](https://practice.geeksforgeeks.org/problems/rotate-by-90-degree0356/1/#)                                    | [Solution](Microsoft/03_Rotate90.cpp)           | ✅        |
+| 4      | [Spiral Matrix](https://practice.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1/#)                       | [Solution](./Microsoft/04_SpiralMatrix.cpp)     | ✅        |
+| 5      | [Stock Span Problem](https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)                              | [Solution](./Microsoft/05_StockSpan.cpp)        | ✅        |
+| 6      | [Possible Words From Phone Digits](https://practice.geeksforgeeks.org/problems/possible-words-from-phone-digits-1587115620/1/) | [Solution](./Microsoft/06_PossibleWords.cpp)    | ✅        |
